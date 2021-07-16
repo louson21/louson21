@@ -1,6 +1,7 @@
-### Hi there 👋
-### 🔭 I’m currently working on ...
-
+# Hi there 👋. I'm Louie!
+## 🔭 I help client create website that works for SEO with WordPress + On-Page optimization.
+---
+[title](https://www.example.com) ![alt text](https://i.ibb.co/TvgcLLp/facebook.png)
 <!--
 **louson21/louson21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
