@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Louie!
-## 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
+#### 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
 ---
 
 ### Follow me on:
@@ -9,3 +9,5 @@
 <a href="https://www.linkedin.com/in/louiesonugan" target="_blank"><img src="https://i.ibb.co/wBkYYcp/linkedin.png" width="20" alt="linkedin"/></a> &nbsp;
 
 <a href="https://www.upwork.com/freelancers/~015f952a2b58304fcf" target="_blank"><img src="https://i.ibb.co/ym2648Q/hire-me-on-upwork-yg.png" alt="hire louie sonugan on upwork" border="0"></a>
+
+<img src="https://i.ibb.co/SfJ2T3p/web.png" alt="web" border="0"> <a href="https://louiesonugan.com" target="_blank">louiesonugan.com</a>
