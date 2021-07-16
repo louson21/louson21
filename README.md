@@ -1,18 +1,11 @@
-# Hi there 👋. I'm Louie!
-## 🔭 I help client create website that works for SEO with WordPress + On-Page optimization.
+# Hi there 👋 I'm Louie!
+## 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
 ---
-[title](https://www.example.com) ![alt text](https://i.ibb.co/TvgcLLp/facebook.png)
-<!--
-**louson21/louson21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Follow me on:
+<a href="https://www.facebook.com/louson21" target="_blank"><img src="https://i.ibb.co/TvgcLLp/facebook.png" width="20" alt="Facebook"/></a> &nbsp;
+<a href="https://www.twitter.com/louson21" target="_blank"><img src="https://i.ibb.co/s1w3FKm/twitter.png" width="20" alt="twitter"/></a> &nbsp;
+<a href="https://www.instagram.com/louiesonugan" target="_blank"><img src="https://i.ibb.co/sCgR1KQ/instagram.png" width="20" alt="instagram"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/louiesonugan" target="_blank"><img src="https://i.ibb.co/wBkYYcp/linkedin.png" width="20" alt="linkedin"/></a> &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.upwork.com/freelancers/~015f952a2b58304fcf" target="_blank"><img src="https://i.ibb.co/ym2648Q/hire-me-on-upwork-yg.png" alt="hire louie sonugan on upwork" border="0"></a>
