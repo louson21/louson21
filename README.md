@@ -9,12 +9,12 @@
 
 ### I'm currently working and learning with:
 [![WordPress](https://img.shields.io/badge/WordPress-21759b)](https://wordpress.org)
-[![HTML](https://img.shields.io/badge/HTML-ff5722)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS-ffa500)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
-[![PHP](https://img.shields.io/badge/PHP-important)](https://www.php.net/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-important)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-blue)](https://nodejs.org/)
+[![HTML](https://img.shields.io/badge/HTML-DD4B25)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS-214CE5)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D)](https://www.ecma-international.org/ecma-262/)
+[![PHP](https://img.shields.io/badge/PHP-858EBB)](https://www.php.net/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3FB27F)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-77B65C)](https://nodejs.org/)
 ---
 
 ### Follow me on:
@@ -27,6 +27,6 @@
 ### You can hire me on:
 [![upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f952a2b58304fcf)
 ---
-### Website:
+### Official Website:
 [![louie sonugan](https://img.shields.io/badge/🌐_louiesonugan.com-2C3E50)](https://louiesonugan.com)
 
