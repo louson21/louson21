@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Louie!
 #### 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
+![Profile views](https://gpvc.arturio.dev/louson21)
 ---
 
 ### I'm serving clients with the following services:
@@ -28,4 +29,4 @@
 <a href="https://www.upwork.com/freelancers/~015f952a2b58304fcf" target="_blank"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
 ---
 ### Official Website:
-<a href="https://louiesonugan.com" target="_blank"><img src="https://img.shields.io/badge/🌐_louiesonugan.com-2C3E50" alt="louiesonugan.com"></a>
+<a href="https://louiesonugan.com"><img src="https://img.shields.io/badge/🌐_louiesonugan.com-2C3E50" alt="louiesonugan.com"></a>
