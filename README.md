@@ -2,12 +2,31 @@
 #### 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
 ---
 
+### I'm serving clients with the following services:
+![Website Development](https://img.shields.io/badge/🌏_Website_Development-informational) <br>
+![On-Page SEO](https://img.shields.io/badge/📈_On--Page_SEO-blueviolet)
+---
+
+### I'm currently working and learning with:
+[![WordPress](https://img.shields.io/badge/WordPress-21759b)](https://wordpress.org)
+[![HTML](https://img.shields.io/badge/HTML-ff5722)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS-ffa500)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
+[![PHP](https://img.shields.io/badge/PHP-important)](https://www.php.net/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-important)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-blue)](https://nodejs.org/)
+---
+
 ### Follow me on:
-<a href="https://www.facebook.com/louson21" target="_blank"><img src="https://i.ibb.co/TvgcLLp/facebook.png" width="20" alt="Facebook"/></a> &nbsp;
-<a href="https://www.twitter.com/louson21" target="_blank"><img src="https://i.ibb.co/s1w3FKm/twitter.png" width="20" alt="twitter"/></a> &nbsp;
-<a href="https://www.instagram.com/louiesonugan" target="_blank"><img src="https://i.ibb.co/sCgR1KQ/instagram.png" width="20" alt="instagram"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/louiesonugan" target="_blank"><img src="https://i.ibb.co/wBkYYcp/linkedin.png" width="20" alt="linkedin"/></a> &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/louson21)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/louson21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louiesonugan)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louiesonugan)
+---
 
-<a href="https://www.upwork.com/freelancers/~015f952a2b58304fcf" target="_blank"><img src="https://i.ibb.co/ym2648Q/hire-me-on-upwork-yg.png" alt="hire louie sonugan on upwork" border="0"></a>
+### You can hire me on:
+[![upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f952a2b58304fcf)
+---
+### Website:
+[![louie sonugan](https://img.shields.io/badge/🌐_louiesonugan.com-2C3E50)](https://louiesonugan.com)
 
-<img src="https://i.ibb.co/SfJ2T3p/web.png" alt="web" border="0"> <a href="https://louiesonugan.com" target="_blank">louiesonugan.com</a>
