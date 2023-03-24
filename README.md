@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Louie!
-#### 💻 I help client create website that works for SEO with WordPress + On-Page optimization.
+#### 💻 I help clients create websites that works for SEO through WordPress and On-page optimization.
 ![Profile views](https://gpvc.arturio.dev/louson21)
 ---
 
