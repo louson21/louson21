@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Louie!
 #### 💻 I help clients create websites that works for SEO through WordPress and On-page optimization.
-![](https://hit.yhype.me/github/profile?user_id=10954331)
+![](https://komarev.com/ghpvc/?username=louson21)
 ---
 
 ### I'm serving clients with the following services:
