@@ -5,6 +5,7 @@
 
 ### I'm serving clients with the following services:
 ![Website Development](https://img.shields.io/badge/🌏_Website_Development-informational)
+![WordPress Development](https://img.shields.io/badge/🌏_WordPress_Development-informational)
 ![On-Page SEO](https://img.shields.io/badge/📈_On--Page_SEO-blueviolet)
 ---
 
