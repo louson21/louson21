@@ -1,3 +1,5 @@
+[![An image of @louson21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/louson21)](https://holopin.io/@louson21)
+
 # Hi there 👋 I'm Louie!
 #### 💻 I help clients create websites that works for SEO through WordPress and On-page optimization.
 ![](https://komarev.com/ghpvc/?username=louson21)
@@ -33,5 +35,3 @@
 <a href="https://louiesonugan.com"><img src="https://img.shields.io/badge/🌐_louiesonugan.com-2C3E50" alt="louiesonugan.com"></a>
 
 <a href="https://app.daily.dev/deversity"><img src="https://api.daily.dev/devcards/1555367b8ebd4333b94136f598f0cf4e.png?r=9vb" width="400" alt="Louie Sonugan's Dev Card"/></a>
-
-[![An image of @louson21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/louson21)](https://holopin.io/@louson21)
