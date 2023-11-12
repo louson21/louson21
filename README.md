@@ -1,5 +1,3 @@
-[![An image of @louson21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/louson21)](https://holopin.io/@louson21)
-
 # Hi there 👋 I'm Louie!
 #### 💻 I help clients create websites that works for SEO through WordPress and On-page optimization.
 ![](https://komarev.com/ghpvc/?username=louson21)
